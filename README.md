@@ -1,4 +1,4 @@
-  /*
+  
     Description:
     -> Database olmadığından dolayı ve projenin testinin sağlıklı yapılabilmesi için Runner Class'ında
         GUI oluşturuldu bu sayede çıkış yapmadığınız sürece GUI de gösterilen işlemleri yapabilir ve test edebilirsiniz
@@ -20,4 +20,4 @@
     ->> Kiralanan kitabı İade edebilmek için kiralanan kitabın ID'sini kullanmak gerekir.
     ->> Iade edilen kitap tekrardan kiralanabilir.
 
-     */
+     
